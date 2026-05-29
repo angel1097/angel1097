@@ -16,13 +16,14 @@ Proud member of winning teams alongside Marlot, Kury, and Ezequiel in multiple u
 
 ### Featured Projects
 
-| Project                    | Tech Stack                                                  | Highlights                                                  |
-|----------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| Raíces Culturales          | Vue 3 • Node.js • MongoDB • Multimedia Recording            | Digital preservation of indigenous Mexican heritage          |
-| Plant Health Diagnosis     | ASP.NET Core 8 • Python • TensorFlow • Computer Vision      | AI-powered crop disease detection for farmers               |
-| University Sports Tournament | .NET 8 Clean Architecture • Vue 3 • SQL Server • JWT       | Full bracket system, live stats, referee assignment         |
-| LaTroca Marketplace        | .NET 8 • Vue 3 • Pinia • Image Moderation • Roles System   | Secure marketplace with admin panel and content control     |
-| El Último Pistolero        | 2D Game Design • Full GDD • Hand-drawn concept art          | Complete western game design document                       |
+| Project                        | Tech Stack                              | Highlights |
+|-------------------------------|-----------------------------------------|----------|
+| **Super Estéreo**             | Vue 3 • .NET 8 • Clean Architecture • SQL Server | Sistema completo para gestión de radio (programación, spots, tiempos gratuitos, reportes) |
+| **LF Schools**                | JavaScript • Vue.js                     | Plataforma educativa moderna |
+| **LF Framework Module**       | JavaScript                              | Módulo base reutilizable para proyectos educativos |
+| **LaTroca Marketplace**       | .NET 8 • Vue 3 • Pinia                  | Marketplace con moderación de contenido y roles |
+| **University Sports Tournament** | .NET 8 • Vue 3 • SQL Server          | Sistema completo de torneos deportivos universitarios |
+| **Plant Health Diagnosis**    | ASP.NET Core 8 • Python • TensorFlow    | Diagnóstico de enfermedades en cultivos con IA |
 
 ### Tech Stack – Organized by Category
 
